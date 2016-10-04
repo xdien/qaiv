@@ -1,0 +1,6 @@
+**/GeneratedFiles
+**/release
+**/debug
+**/Win32
+**Makefile**
+*.pro.user**
